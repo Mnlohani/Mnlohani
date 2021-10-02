@@ -6,8 +6,9 @@ I am Manish. Love learning new techniques, technologies and their applications.
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on interface development in gmx2qmmm python package.
-- 🌱 I’m currently learning more in feature engineering, data analysis, and data structures in python.
 <!--
+- 🌱 I’m currently learning more in feature engineering, data analysis, and data structures in python.
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
