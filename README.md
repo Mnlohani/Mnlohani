@@ -1,10 +1,10 @@
-### Hi there 👋 
-I am Manish. A Computational scientist, data and AI enthusiast having more than 7 year total experience in data analysis, programming, Reporting & BI, data engineering, data science with interest in learning new computational methods, techniques, and  technologies and their applications.
+### Hi there 👋, I am Manish. 
+A computational scientist, data and AI enthusiast having more than 7 years of  total experience in data analysis, programming, Reporting & BI, data engineering, and data science with interest of learning new computational methods, technologies and their applications.
 <!--
 **Mnlohani/Mnlohani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
--->
+
 - 🔭 I’m currently working on Data Engineering aspects.
 <!--
 - 🌱 I’m currently learning more in feature engineering, data analysis, and data structures in python.
