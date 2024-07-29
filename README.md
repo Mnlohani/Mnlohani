@@ -1,5 +1,5 @@
 ### Hi there 👋, I am Manish. 
-Interested in learning computational methods, technologies and their applications.
+Interested in learning data science, machine learning, computational methods and their applications.
 <!--
 **Mnlohani/Mnlohani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
